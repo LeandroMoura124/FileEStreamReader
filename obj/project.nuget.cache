@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mu+z5VcZhQxSiA5HARuqfYeS2w8wQ5f+YNO/ucVisZ0f5xuy9s+zs/I22IihmnPreT9wT4jwJPThqtqjgkfxCQ==",
+  "dgSpecHash": "pXhimHRUuc5T2dpAyN6pqi233h1v4rARs/Jk7bks0hn3OVAMyPVlc5xakfLqSobZ6oV/qqLrVyYCCFZV6UjUrw==",
   "success": true,
-  "projectFilePath": "C:\\FIAP\\C#\\LendoArquivos\\LendoArquivos.csproj",
+  "projectFilePath": "C:\\FIAP\\C#\\FileEStreamReader\\LendoArquivos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

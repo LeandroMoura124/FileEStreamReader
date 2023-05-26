@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FIAP\\C#\\LendoArquivos\\LendoArquivos.csproj",
+      "projectUniqueName": "C:\\FIAP\\C#\\FileEStreamReader\\LendoArquivos.csproj",
       "projectName": "LendoArquivos",
-      "projectPath": "C:\\FIAP\\C#\\LendoArquivos\\LendoArquivos.csproj",
+      "projectPath": "C:\\FIAP\\C#\\FileEStreamReader\\LendoArquivos.csproj",
       "packagesPath": "C:\\Users\\Vagnao\\.nuget\\packages\\",
-      "outputPath": "C:\\FIAP\\C#\\LendoArquivos\\obj\\",
+      "outputPath": "C:\\FIAP\\C#\\FileEStreamReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vagnao\\AppData\\Roaming\\NuGet\\NuGet.Config"
